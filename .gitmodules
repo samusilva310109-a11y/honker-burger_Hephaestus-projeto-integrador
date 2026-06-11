@@ -1,0 +1,6 @@
+[submodule "Projeto-Integrador-Hunker-Burguer-Hephaestus-Back"]
+	path = Projeto-Integrador-Hunker-Burguer-Hephaestus-Back
+	url = https://github.com/FranciscoWala/Projeto-Integrador-Hunker-Burguer-Hephaestus-Back.git
+[submodule "Projeto-Integrador-Hunker-Burguer-Hephaestus-Front"]
+	path = Projeto-Integrador-Hunker-Burguer-Hephaestus-Front
+	url = https://github.com/FranciscoWala/Projeto-Integrador-Hunker-Burguer-Hephaestus-Front.git
