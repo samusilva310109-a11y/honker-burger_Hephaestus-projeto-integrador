@@ -1,4 +1,6 @@
-![Logo]()
+<p align="center">
+  <img width="736" height="313" alt="image" src="https://github.com/user-attachments/assets/766f6d13-d9c2-4ea3-bb97-587dffd4f2ef" width="100%">
+</p>
 
 # Projeto Integrador
 
